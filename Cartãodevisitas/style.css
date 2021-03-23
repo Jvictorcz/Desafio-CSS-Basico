@@ -1,28 +1,28 @@
 body{
-    background-color: black;
+    background-color:  black;
 }
-.fundo {
+.Fundo{
     width: 400px;
     height: 200px;
     box-sizing: border-box;
-    padding: 1px 20px; 
+    padding: 1px 20px;
     background: url(Social/backgorund.png) no-repeat;
     background-size: cover;
     margin: auto;
     margin-top: 10%;
-
-}
-a{
-    text-decoration:none;
-    color: black;
-}
-.insta{
-    list-style-image: url(Social/insta.png);
     
 }
-.twitter{
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.Insta{
+    list-style-image: url(Social/insta.png);
+}
+.Twitter{
     list-style-image: url(Social/Twitter.png);
 }
-.youtube{
+.Youtube{
     list-style-image: url(Social/Youtube.png);
 }
